@@ -1,0 +1,11 @@
+{
+  "name": "p4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "p4.js",
+  "scripts": {
+    "test": "node p4"
+  },
+  "author": "Meet Ajudiya",
+  "license": "ISC"
+}

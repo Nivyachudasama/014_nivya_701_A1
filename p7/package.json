@@ -1,0 +1,14 @@
+{
+  "name": "p7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "p7.js",
+  "scripts": {
+    "test": "node p7"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "p10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "p10.js",
+  "scripts": {
+    "test": "node p10"
+  },
+  "author": "Meet Ajudiya",
+  "license": "ISC"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "p5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "p5.js",
+  "scripts": {
+    "test": "node p5"
+  },
+  "keywords": [],
+  "author": "Meet Ajudiya",
+  "license": "ISC"
+}

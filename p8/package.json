@@ -1,0 +1,17 @@
+{
+  "name": "p8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "p8.js",
+  "scripts": {
+    "start": "node p8",
+    "test": "echo \"No test specified\" && exit 0", 
+    
+    "build": "echo Building the project...",      
+    "lint": "echo Running linter...",             
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

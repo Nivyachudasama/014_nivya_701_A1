@@ -1,0 +1,11 @@
+{
+  "name": "p6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "p6.js",
+  "scripts": {
+    "test": "node p6"
+  },
+  "author": "Meet Ajudiya",
+  "license": "ISC"
+}
